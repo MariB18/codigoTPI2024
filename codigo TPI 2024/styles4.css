@@ -1,0 +1,25 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #ffffff;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/*Encabezado*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #003049;
+    padding: 10px 20px;
+    color: white;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+}
