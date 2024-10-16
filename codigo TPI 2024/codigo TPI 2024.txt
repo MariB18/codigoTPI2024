@@ -1,0 +1,3 @@
+https://github.com/MariB18/codigoTPI2024.git
+
+Hola profe le dejo un vistazo del código que voy desarrollando, pero me faltan dos partes que es la del boletín y en perfil del usuario, porque me estan costando, le entrego por ahora lo que voy haciendo.
